@@ -1,0 +1,10 @@
+LIBRARY A17BBI.dll
+
+
+EXPORTS
+PluginStart
+AccessVariable
+AccessTrigger
+AccessSystemVariable
+AccessStringVariable
+PluginFinalize
